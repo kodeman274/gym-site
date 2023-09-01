@@ -227,9 +227,9 @@ img {
   transition: color 0.3s;
 }
 
-.nav__link:hover {
-  color: var(--first-color);
-}
+/* .nav__link:hover {
+  color: var(--body-color);
+} */
 
 .nav__close {
   position: absolute;
@@ -240,9 +240,14 @@ img {
   font-size: 1.5rem;
 }
 
+/* revisi warna font */
 .nav .nav__button {
   background-color: var(--title-color);
-  border: none;
+  color: var(--title-color-black);
+  border-radius: 20px;
+}
+.nav .nav__button:hover {
+  color: var(--title-color);
 }
 
 /* Show menu */
@@ -339,7 +344,7 @@ img {
 }
 
 .button:hover {
-  background-color: var(--first-color-dark);
+  background-color: var(--first-color);
 }
 
 .button i {
@@ -348,15 +353,19 @@ img {
   font-weight: 600;
 }
 
+/* revisi color dan bg warna */
 .button__flex {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   column-gap: 0.5rem;
+  color: var(--title-color);
+  background-color: var(--title-color-black);
 }
 
 .button__flex:hover i {
   transform: translateX(0.25rem);
+  color: var(--title-color);
 }
 
 /*=============== LOGOS ===============*/
@@ -483,13 +492,13 @@ img {
 
 .choose__description {
   text-align: center;
-  margin-bottom: 2.5rem;
+  margin-bottom: 40px;
 }
 
 .choose__data {
   grid-template-columns: repeat(2, 1fr);
   row-gap: 2rem;
-  margin-top: -55px;
+  margin-top: -15px;
 }
 
 .choose__group {
@@ -590,13 +599,13 @@ img {
 .pricing__item-opacity {
   opacity: 0.3;
 }
-
+/* revisi bg warna */
 .pricing__button {
-  background-color: var(--title-color);
+  background-color: var(--title-color-black);
 }
 
 .pricing__button:hover {
-  background-color: var(--title-color);
+  background-color: var(--first-color);
 }
 
 .pricing__card-active {
@@ -855,6 +864,10 @@ img {
   .home__triangle-3,
   .choose__triangle-1 {
     width: 260px;
+  }
+
+  .choose__description {
+    margin-top: 5px;
   }
 
   .choose__img {
