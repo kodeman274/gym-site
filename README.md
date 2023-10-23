@@ -18,7 +18,7 @@ diamond, masing-masing dengan manfaat yang berbeda-beda.
 # Features
  <ul>
    <li>Pendaftaran anggota online</li>
-   <li>alkulator Indeks Masa Tubuh (BMI)</li>
+   <li>Kalkulator Indeks Masa Tubuh (BMI)</li>
    <li>Pilihan program dan paket sesuai harga</li>
    <li>Jadwal kelas dan pemesanan (custom)</li>
    <li>Profil dan portofolio pelatih (custom)</li>
