@@ -4,7 +4,26 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Usage](#Usage)
+
+
+# Introduction
+website gym ini, pengguna atau anggota yang ingin
+mendaftar dapat dengan mudah mengakses informasi tentang berbagai paket bulanan yang
+tersedia. Ada tiga pilihan paket yang dapat dipilih, mulai dari paket basic, premium, hingga
+diamond, masing-masing dengan manfaat yang berbeda-beda. 
+
+# Features
+ <ul>
+   <li>Pendaftaran anggota online</li>
+   <li>alkulator Indeks Masa Tubuh (BMI)</li>
+   <li>Pilihan program dan paket sesuai harga</li>
+   <li>Jadwal kelas dan pemesanan (custom)</li>
+   <li>Profil dan portofolio pelatih (custom)</li>
+   <li>Galeri gambar gym (custom)</li>
+   <li>Info Sosmed, Kontak dan lokasi gym</li>
+ </ul>
+
+ 
