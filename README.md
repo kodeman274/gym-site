@@ -10,7 +10,7 @@
 
 
 # Introduction
-website gym ini, pengguna atau anggota yang ingin
+Website gym ini, pengguna atau anggota yang ingin
 mendaftar dapat dengan mudah mengakses informasi tentang berbagai paket bulanan yang
 tersedia. Ada tiga pilihan paket yang dapat dipilih, mulai dari paket basic, premium, hingga
 diamond, masing-masing dengan manfaat yang berbeda-beda. 
@@ -25,5 +25,7 @@ diamond, masing-masing dengan manfaat yang berbeda-beda.
    <li>Galeri gambar gym (custom)</li>
    <li>Info Sosmed, Kontak dan lokasi gym</li>
  </ul>
+
+ # Fufa-creative dev
 
  
